@@ -1,14 +1,5 @@
 # Fourier_Discrete
 
-
-
-
-
-
-### Explication du contenu :
-
-# Fourier_Discrete
-
 ### Explication du contenu :
 
 **Description** :  

@@ -13,3 +13,4 @@
   - Rédaction du README avec implémentation du planning.
   - Début du codage de l'algorithme en O(n²) pour le fichier implementation1.py.
   - Fin de la matinée : l'algorithme en O(n²) est codé dans implementation1.py et le premier fichier de test unitaire test_implementation1.py est fini et opérationnel.
+  - Update fin de la matinée : visualisation opérationnelle.

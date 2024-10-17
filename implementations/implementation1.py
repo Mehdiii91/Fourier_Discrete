@@ -26,10 +26,3 @@ def dft(x):
     
     return X
 
-#utilisation
-signal = [0.0, 1.0, 0.0, -1.0]  
-frequencies = dft(signal)
-
-
-for k, freq in enumerate(frequencies):
-    print(f"Fréquence {k}: {freq}")

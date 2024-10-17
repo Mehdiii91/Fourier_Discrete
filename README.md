@@ -1,14 +1,5 @@
 # Fourier_Discrete
 
-
-
-
-
-
-### Explication du contenu :
-
-# Fourier_Discrete
-
 ### Explication du contenu :
 
 **Description** :  
@@ -43,10 +34,6 @@ Un aperçu rapide des fichiers importants et de leur fonction.
     │   └── analyse_complexite.md
     └── ressources/
         └── [données, images, etc.]
-
-**Instructions d'Utilisation:** Comment cloner et exécuter le projet, ainsi qu'une brève explication des fonctionnalités disponibles dans le menu.
-
-
 
 ---
 

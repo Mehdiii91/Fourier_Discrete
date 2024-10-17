@@ -1,4 +1,3 @@
-import cmath  
 import math
 
 def dft(x):

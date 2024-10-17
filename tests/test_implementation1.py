@@ -25,7 +25,7 @@ def test_dft_simple():
 
 
 #test unitaire pour un signal constant
-def tes_dft_constant():
+def test_dft_constant():
     signal = [1.0, 1.0, 1.0, 1.0]
     resultat_attendu=[
         complex(4.0, 0.0),  # X[0] : Somme de 4 fois 1.0
